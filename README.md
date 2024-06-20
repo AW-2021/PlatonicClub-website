@@ -1,4 +1,4 @@
-![image](https://github.com/AW-2021/PlatonicClub-website/assets/77668986/cf9a79b0-443f-461f-a4cd-bdc9fb5a5524)<h1 align="center">Platonic Club</h1>
+<h1 align="center">Platonic Club</h1>
 
 <h2 align="center">Online Jewellery Store Website</h2>
 
@@ -9,7 +9,6 @@
 <div align="justify">Platonic Club is a e-commerce web store that sells handmade jewellery to customers. It is a full-stack E-commerce website, with a fully functional admin dashboard, all made using PHP, HTML, CSS, JavaScript and MySQL!</div><br>
 
 <div align="justify">The website helps to increase the customer traffic for this business and allows the business to market and sell their products in a more organized manner. The website makes lengthy processes such as checkout and searching products more convenient. The CRUD admin dashboard will make it easier for the team that creates the jewelry to add and update inventory products, check all placed orders and get a list of all currently registered customers on their website.</div>
-
 
 ## Main Website Features
 
