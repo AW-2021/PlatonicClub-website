@@ -95,7 +95,7 @@
 
 ## Header
 
-The header is divided into two parts, vertically stacked on eachother. The top section includes the search bar, user info, wishlist and shopping cart. The bottom section includes the logo, and links to the four main pages namely, Home page, About page, Shop page, Orders page and Account page.
+<div align="justify">The header is divided into two parts, vertically stacked on eachother. The top section includes the search bar, user info, wishlist and shopping cart. The bottom section includes the logo, and links to the five main pages namely, Home page, About page, Shop page, Orders page and Account page.</div><br>
 
 ![header](screenshot_images/header.png)  
 
@@ -107,7 +107,7 @@ The header is divided into two parts, vertically stacked on eachother. The top s
 The project is built using the following technologies:
 
 - Frontend: HTML, CSS, JavaScript
-- Backend: PHP, MySQL database
+- Backend: PHP, MySQL Database
 
 ## MySQL Database Structure
 
@@ -138,7 +138,7 @@ Attributes -------> id*, customer_id, name, email, number, message, image
 
 ## License
 
-PlatonicClub is licensed under the [MIT License](LICENSE).
+Platonic Club is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
