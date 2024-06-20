@@ -6,57 +6,77 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-<div align="justify">Platonic Club is a e-commerce web store that sells handmade jewellery to customers. It is a full-stack E-commerce website, with a fully functional admin dashboard, all made using PHP, HTML, CSS, JavaScript and MySQL!</div><br>
+<p align="justify">Platonic Club is a e-commerce web store that sells handmade jewellery to customers. It is a full-stack E-commerce website, with a fully functional admin dashboard, all made using PHP, HTML, CSS, JavaScript and MySQL!</p>
 
-<div align="justify">The website was made to facilitate a handcrafted jewellery business that previously only sold to their customers through social media. It helps to increase the customer traffic for this business and allows the business to market and sell their products in a more organized manner. The website makes lengthy processes such as checkout and searching products more convenient.</div><br>
+<p align="justify">The website was made to facilitate a handcrafted jewellery business that previously only sold to their customers through social media. It helps to increase the customer traffic for this business and allows the business to market and sell their products in a more organized manner. The website makes lengthy processes such as checkout and searching products more convenient.</p>
 
-<div align="justify">The CRUD admin dashboard will make it easier for the team that creates the jewelry to add and update inventory products, check all placed orders and get a list of all currently registered customers on their website.</div>
+<p align="justify">The CRUD admin dashboard will make it easier for the team that creates the jewelry to add and update inventory products, check all placed orders and get a list of all currently registered customers on their website.</p>
 
 ## Main Website Features
 
 - Homepage: Features two of the new collections, an easy link to all the earrings and necklaces available on the store, and a section for all the latest products available, followed by the footer.
-
-![homepage](screenshot_images/homepage.png)
+  
+<div align="center">
+  <img src="screenshot_images/homepage.png" height="1800" />
+</div>
 
 - Shop All Products (filtered by product type): Page where all the products available on the store are present and products can be filtered according to color and/or category. Each product contains a quick view button which directs a user to the 'Product Details' page.
 
-![all products filter](screenshot_images/all-products-filter.png)
+<div align="center">
+  <img src="screenshot_images/all-products-filter.png" height="1800" />
+</div>
 
 - Product Details: Page where all the details, like the product description are shown for a particular product.
 
-![product details](screenshot_images/product-details.png)
+<div align="center">
+  <img src="screenshot_images/product-details.png" height="800" />
+</div>
 
 - About Us: Contains all information about the store, such as the story of its creation and information about the team and managers that run the store, as well as client reviews etc.
-  
-![about us](screenshot_images/about-us.png)
+
+<div align="center">
+  <img src="screenshot_images/about-us.png" height="1200" />
+</div>
 
 - Search Products: The Search page is accessed through the search bar and allows a customer to search for any product according to a name, color or category.
 
-![search products](screenshot_images/search-products1.png)
-
-![search products](screenshot_images/search-products2.png)
+<div align="center">
+  <img src="screenshot_images/search-products1.png" height="700" />
+  
+  <img src="screenshot_images/search-products2.png" height="750" />
+</div>
 
 - Shopping Cart: Users can view all the products they have added to their cart and the grand total of all cart products. Includes ability to remove certain products from the cart, update the individual quantity of products in the cart or delete all the products from the cart with one click.
   
-![shopping cart](screenshot_images/shopping-cart1.png)
-
-![shopping cart](screenshot_images/shopping-cart2.png)
+<div align="center">
+  <img src="screenshot_images/shopping-cart1.png" height="900" />
+  
+  <img src="screenshot_images/shopping-cart2.png" height="1100" />
+</div>
 
 - Checkout Order: Customers will fill out the checkout form and make the payment in case of credit card. They can finalize their order by clicking on the ‘Order Now’ button after the whole form is filled.
 
-![checkout order](screenshot_images/checkout-order.png)
+<div align="center">
+  <img src="screenshot_images/checkout-order.png" height="890" />
+</div>
 
 - Your Placed Orders: Customers can review all the orders they have already placed and can check the status of their orders to see if they are still pending or not.
 
-![placed orders](screenshot_images/website-placed-orders.png)
+<div align="center">
+  <img src="screenshot_images/website-placed-orders.png" height="850" />
+</div>
 
 - Custom Order: Page where customers can place custom orders through a form and submit reference images for the store owners to base their design off of.
-  
-![custom order](screenshot_images/custom-order.png)
+
+<div align="center">
+  <img src="screenshot_images/custom-order.png" height="680" />
+</div>
 
 - Wishlist: Users can view all the products they have added to their wish list while shopping. Allows moving some or all of those products into the shopping cart from the wish list.
 
-![wishlist](screenshot_images/wishlist.png)
+<div align="center">
+  <img src="screenshot_images/wishlist.png" height="750" />
+</div>
 
 ## Admin Panel Features
 
