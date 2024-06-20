@@ -6,18 +6,26 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-<div align="justify">Platonic Club is a e-commerce web store that sells handmade jewellery to customers. It is a full-stack E-commerce website, with a fully functional admin dashboard, all made using PHP, HTML, CSS and JavaScript and MySQl!</div><br>
+<div align="justify">Platonic Club is a e-commerce web store that sells handmade jewellery to customers. It is a full-stack E-commerce website, with a fully functional admin dashboard, all made using PHP, HTML, CSS and JavaScript and MySQL!</div><br>
 
-<div align="justify">The website helps to increase the customer traffic for this business and allows the business to market and sell their products in a more organized manner. The website makes lengthy processes such as checkout and searching products a lot more convenient. The CRUD admin dashboard will make it easier for the team that creates the jewelry to add and update inventory products, check all placed orders and even get a list of all currently registered customers on their website.</div>
+<div align="justify">The website helps to increase the customer traffic for this business and allows the business to market and sell their products in a more organized manner. The website makes lengthy processes such as checkout and searching products more convenient. The CRUD admin dashboard will make it easier for the team that creates the jewelry to add and update inventory products, check all placed orders and get a list of all currently registered customers on their website.</div>
 
 
 ## Main Website Features
 
-- Homepage:
+- Homepage: Features two of the new collections, an easy link to all the earrings and necklaces available on the store, and a section for all the latest products available, followed by the footer.
 
 ![homepage](screenshot_images/homepage.png)
 
-- About Us:
+- Shop All Products (filtered by product type): Page where all the products available on the store are present and products can be filtered according to color and/or category. Each product contains a quick view button which directs a user to the 'Product Details' page.
+
+![all products filter](screenshot_images/all-products-filter.png)
+
+- Product Details: Page where all the details like the product description are shown for a particular product.
+
+![product details](screenshot_images/product-details.png)
+
+- About Us: Contains all information about the store, such as the story of its creation and information about the team and managers that run the store, as well as client reviews etc.
   
 ![about us](screenshot_images/about-us.png)
 
@@ -49,18 +57,9 @@
 
 ![search products](screenshot_images/search-products2.png)
 
-- Product Details:
-
-![product details](screenshot_images/product-details.png)
-
 - Wishlist:
   
 ![wishlist](screenshot_images/wishlist.png)
-
-
-- All Products Filtered (by product type)
-
-![all products filter](screenshot_images/all-products-filter.png)
 
 
 ## Admin Panel Features
@@ -100,6 +99,8 @@
 ![header](screenshot_images/header.png)  
 
 ## Additional Information
+
+- The Account+ in the bottom section of the navigation bar, has two sub categories of login and register, which allow a customer to either login with another account if they have one or register a new account with the store.
 
 
 ## Technology
