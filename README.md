@@ -58,23 +58,23 @@
 
 ## Admin Panel Features
 
-- Dashboard:
+- Dashboard: Overview of all the data related to the store & customers, like completed payments, total pending payments by customers, number of orders placed, total number of products available on the site, total users registered with the store and total number of messages/ custom orders received from customers.
 
 ![dashboard](screenshot_images/admin-panel-dashboard.png)
 
-- Custom Order Messages:
+- Custom Order Messages: List of all the custom orders and messages submitted by customers are displayed, along with the reference pictures for the custom orders.
 
 ![custom order messages](screenshot_images/messages.png)
 
-- Placed Orders:
+- Placed Orders: Details of all the orders placed and ability to update the status of orders by changing it from pending to completed to indicate that the jewelry piece has been made and sent for delivery or the payment has been given by the customer successfully.
 
 ![placed orders](screenshot_images/admin-panel-placed-orders.png)
 
-- Add New Products to Inventory:
-  
+- Add New Products to Inventory: Store administrators can add new products to their store through a form and view a list of all the products currently available on the website. Administrator can choose to update the information of any product from the list or delete the product entirely from the inventory.
+
 ![add new product to inventory](screenshot_images/add-new-product-inventory.png)
 
-- User Accounts: 
+- User Accounts: Displays all the users registered with their online store; both customers and administrators. All the relevant details of the users, other than their passwords are present on this page. Administrators can also delete any of the users.
   
 ![user accounts](screenshot_images/user-accounts.png)  
 
