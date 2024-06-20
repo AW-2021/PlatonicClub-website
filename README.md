@@ -29,7 +29,7 @@
 - Product Details: Page where all the details, like the product description are shown for a particular product.
 
 <div align="center">
-  <img src="screenshot_images/product-details.png" height="800" />
+  <img src="screenshot_images/product-details.png" />
 </div>
 
 - About Us: Contains all information about the store, such as the story of its creation and information about the team and managers that run the store, as well as client reviews etc.
@@ -41,15 +41,15 @@
 - Search Products: The Search page is accessed through the search bar and allows a customer to search for any product according to a name, color or category.
 
 <div align="center">
-  <img src="screenshot_images/search-products1.png" height="700" />
+  <img src="screenshot_images/search-products1.png" />
   
-  <img src="screenshot_images/search-products2.png" height="750" />
+  <img src="screenshot_images/search-products2.png" />
 </div>
 
 - Shopping Cart: Users can view all the products they have added to their cart and the grand total of all cart products. Includes ability to remove certain products from the cart, update the individual quantity of products in the cart or delete all the products from the cart with one click.
   
 <div align="center">
-  <img src="screenshot_images/shopping-cart1.png" height="900" />
+  <img src="screenshot_images/shopping-cart1.png" />
   
   <img src="screenshot_images/shopping-cart2.png" height="1100" />
 </div>
@@ -69,13 +69,13 @@
 - Custom Order: Page where customers can place custom orders through a form and submit reference images for the store owners to base their design off of.
 
 <div align="center">
-  <img src="screenshot_images/custom-order.png" height="680" />
+  <img src="screenshot_images/custom-order.png" />
 </div>
 
 - Wishlist: Users can view all the products they have added to their wish list while shopping. Allows moving some or all of those products into the shopping cart from the wish list.
 
 <div align="center">
-  <img src="screenshot_images/wishlist.png" height="750" />
+  <img src="screenshot_images/wishlist.png" />
 </div>
 
 ## Admin Panel Features
