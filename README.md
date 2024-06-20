@@ -49,8 +49,6 @@
 - Shopping Cart: Users can view all the products they have added to their cart and the grand total of all cart products. Includes ability to remove certain products from the cart, update the individual quantity of products in the cart or delete all the products from the cart with one click.
   
 <div align="center">
-  <img src="screenshot_images/shopping-cart1.png" />
-  
   <img src="screenshot_images/shopping-cart2.png" height="1100" />
 </div>
 
