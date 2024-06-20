@@ -1,4 +1,4 @@
-<h1 align="center">PlatonicClub</h1>
+<h1 align="center">Platonic Club</h1>
 
 <h2 align="center">Online Jewellery Store Website</h2>
 
@@ -6,7 +6,9 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-Platonic Club is a e-commerce web store that sells handmade jewellery to customers. It is a full-stack E-commerce website, with a fully functional admin dashboard, all made using PHP, HTML, CSS and JavaScript!
+<div align="justify">Platonic Club is a e-commerce web store that sells handmade jewellery to customers. It is a full-stack E-commerce website, with a fully functional admin dashboard, all made using PHP, HTML, CSS and JavaScript and MySQl!</div><br>
+
+<div align="justify">The website helps to increase the customer traffic for this business and allows the business to market and sell their products in a more organized manner. The website makes lengthy processes such as checkout and searching products a lot more convenient. The CRUD admin dashboard will make it easier for the team that creates the jewelry to add and update inventory products, check all placed orders and even get a list of all currently registered customers on their website.</div>
 
 
 ## Main Website Features
@@ -85,7 +87,7 @@ Platonic Club is a e-commerce web store that sells handmade jewellery to custome
 
 ## Login and Register
 
-Login/ Register via Email: Default form for user authentication.
+<div align="justify">Upon accessing the URL of the website, a user is brought to the login page from where they can login as a customer or administrator, if they already have an account. If not, then a user can click on the 'Register Now' button, directing them to the Register page, where they fill out a form to sign up with the website. When a person logs in as a customer, they are brought to the main website but when an administrator logs in they are directed to the admin dashboard instead.</div><br>
 
 ![login and register](screenshot_images/login.png)
 
@@ -93,7 +95,7 @@ Login/ Register via Email: Default form for user authentication.
 
 ## Header
 
-The header includes the logo, page name, usage statistics, subscription button, and logout button. In the mobile version, the page name is hidden, and statistics disappear on scroll.
+The header is divided into two parts, vertically stacked on eachother. The top section includes the search bar, user info, wishlist and shopping cart. The bottom section includes the logo, and links to the four main pages namely, Home page, About page, Shop page, Orders page and Account page.
 
 ![header](screenshot_images/header.png)  
 
