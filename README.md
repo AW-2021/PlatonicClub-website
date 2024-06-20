@@ -29,7 +29,7 @@
 - Product Details: Page where all the details, like the product description are shown for a particular product.
 
 <div align="center">
-  <img src="screenshot_images/product-details.png" />
+  <img src="screenshot_images/product-details.png" height="750" />
 </div>
 
 - About Us: Contains all information about the store, such as the story of its creation and information about the team and managers that run the store, as well as client reviews etc.
@@ -41,39 +41,39 @@
 - Search Products: The Search page is accessed through the search bar and allows a customer to search for any product according to a name, color or category.
 
 <div align="center">
-  <img src="screenshot_images/search-products1.png" />
+  <img src="screenshot_images/search-products1.png" height="650" /> 
   
-  <img src="screenshot_images/search-products2.png" />
+  <img src="screenshot_images/search-products2.png" height="700" />
 </div>
 
 - Shopping Cart: Users can view all the products they have added to their cart and the grand total of all cart products. Includes ability to remove certain products from the cart, update the individual quantity of products in the cart or delete all the products from the cart with one click.
   
 <div align="center">
-  <img src="screenshot_images/shopping-cart2.png" height="1100" />
+  <img src="screenshot_images/shopping-cart2.png" height="1020" />
 </div>
 
 - Checkout Order: Customers will fill out the checkout form and make the payment in case of credit card. They can finalize their order by clicking on the ‘Order Now’ button after the whole form is filled.
 
 <div align="center">
-  <img src="screenshot_images/checkout-order.png" height="890" />
+  <img src="screenshot_images/checkout-order.png" height="820" />
 </div>
 
 - Your Placed Orders: Customers can review all the orders they have already placed and can check the status of their orders to see if they are still pending or not.
 
 <div align="center">
-  <img src="screenshot_images/website-placed-orders.png" height="850" />
+  <img src="screenshot_images/website-placed-orders.png" height="820" />
 </div>
 
 - Custom Order: Page where customers can place custom orders through a form and submit reference images for the store owners to base their design off of.
 
 <div align="center">
-  <img src="screenshot_images/custom-order.png" />
+  <img src="screenshot_images/custom-order.png" height="650" />
 </div>
 
 - Wishlist: Users can view all the products they have added to their wish list while shopping. Allows moving some or all of those products into the shopping cart from the wish list.
 
 <div align="center">
-  <img src="screenshot_images/wishlist.png" />
+  <img src="screenshot_images/wishlist.png" height="720" />
 </div>
 
 ## Admin Panel Features
@@ -92,7 +92,9 @@
 
 - Add New Products to Inventory: Store administrators can add new products to their store through a form and view a list of all the products currently available on the website. Administrator can choose to update the information of any product from the list or delete the product entirely from the inventory.
 
-![add new product to inventory](screenshot_images/add-new-product-inventory.png)
+<div align="center">
+  <img src="screenshot_images/add-new-product-inventory.png" height="1800" />
+</div>
 
 - User Accounts: Displays all the users registered with their online store; both customers and administrators. All the relevant details of the users, other than their passwords are present on this page. Administrators can also delete any of the users.
   
@@ -100,7 +102,7 @@
 
 ## Login and Register
 
-<div align="justify">Upon accessing the URL of the website, a user is brought to the login page from where they can login as a customer or administrator, if they already have an account. If not, then a user can click on the 'Register Now' button, directing them to the Register page, where they fill out a form to sign up with the website. When a person logs in as a customer, they are brought to the main website but when an administrator logs in they are directed to the admin dashboard instead.</div><br>
+<p align="justify">Upon accessing the URL of the website, a user is brought to the login page from where they can login as a customer or administrator, if they already have an account. If not, then a user can click on the 'Register Now' button, directing them to the Register page, where they fill out a form to sign up with the website. When a person logs in as a customer, they are brought to the main website but when an administrator logs in they are directed to the admin dashboard instead.</p>
 
 ![login and register](screenshot_images/login.png)
 
@@ -108,15 +110,12 @@
 
 ## Header
 
-<div align="justify">The header is divided into two parts, vertically stacked on eachother. The top section includes the search bar, user info, wishlist and shopping cart. The bottom section includes the logo, and links to the five main pages namely, Home page, About page, Shop page, Orders page and Account page.</div><br>
+<p align="justify">The header is divided into two parts, vertically stacked on eachother. The top section includes the search bar, user info, wishlist and shopping cart. The bottom section includes the logo, and links to the five main pages namely, Home page, About page, Shop page, Orders page and Account page.</p>
 
   - The account button shows the customer their account details like username and email etc. and has the logout button too.
   - The Account+ has two sub categories of login and register, which allow a customer to either login with another account if they have one or register a new account with the store.
 
 ![header](screenshot_images/header.png)  
-
-## Additional Information
-
 
 ## Technology
 
