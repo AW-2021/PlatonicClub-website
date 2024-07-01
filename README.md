@@ -4,7 +4,7 @@
 
 <h3 align="center"> Made using PHP, JavaScript, HTML & CSS</h3>
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-violet.svg)](LICENSE)
 
 <p align="justify">Platonic Club is a e-commerce web store that sells handmade jewellery to customers. It is a full-stack E-commerce website, with a fully functional admin dashboard, all made using PHP, HTML, CSS, JavaScript and MySQL!</p>
 
